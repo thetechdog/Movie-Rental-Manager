@@ -10,6 +10,7 @@ Features:
 - Add/Delete movies to/from database
 - Edit movie details
 - Mark a movie as rented, as well as keeping track of when it was rented and the time limit
+- State machine diagram included
 
 Updates coming *never*.  
 The program is in romanian, no other translation is planned.  
