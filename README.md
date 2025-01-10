@@ -2,6 +2,7 @@
 A program to manage a movie database, with rentals per user.
 Features:
 - Create an account with different privileges
+- Very basic permission system, the permissions are preset and depend on the chosen account type
 - User login
 - Password change
 - Set a profile picture
